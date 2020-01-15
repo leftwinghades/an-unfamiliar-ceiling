@@ -1,0 +1,17 @@
+* {
+    font-family: monospace;
+}
+
+body {
+    background-color: #fff8e7;
+}
+
+#signUp, #login {
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 8px;
+}
